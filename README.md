@@ -1,4 +1,4 @@
-# SPH6004 Group Assignment - Team 3
+# Group Assignment - Team 3
 # Contributors
 
 ---
